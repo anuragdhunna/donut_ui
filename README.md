@@ -1,16 +1,3 @@
-# donut_ui
+# Donut App UI
 
-Donut App UI
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20221113_153659](https://user-images.githubusercontent.com/17445183/201543612-214e536c-3136-4b50-a1ca-dfe2b4a314d5.png)
